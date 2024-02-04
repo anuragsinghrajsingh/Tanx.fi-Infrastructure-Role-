@@ -1,11 +1,11 @@
 # Tanx.fi-Infrastructure-Role-
 This is my assignment submission for tanX.fi.
 
-# Code Functionalities
+# Project Functionalities
 
 ## Online Store Order Analysis
 
-## Overview
+### Overview
 
 This project analyzes customer order data from an online store to gain insights into revenue, product performance, and customer behavior. The analysis includes:
 
@@ -14,7 +14,7 @@ Revenue per product
 Revenue per customer
 Identification of top 10 customers by revenue
 
-## Technologies Used
+### Technologies Used
 
 Python
 Pandas (for data manipulation)
@@ -30,22 +30,22 @@ product_name
 product_price
 quantity
 
-## Usage
+### Usage
 
 Clone this repository.
 Install required libraries: pip install pandas
 Run the Python script: python Tanx_fi_Infrastructure_role.py
 
-## Output
+### Output
 
 The script generates a summary of the analysis, including:
 
-Each online store monthly revenue breakdown
+Each online store's monthly revenue breakdown
 Total revenue per product
 Total revenue per customer
 List of top 10 customers by revenue
 
-## Contributions
+### Contributions
 
 Feel free to contribute to the project by:
 
