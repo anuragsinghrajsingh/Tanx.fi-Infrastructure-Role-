@@ -34,13 +34,13 @@ quantity
 
 Clone this repository.
 Install required libraries: pip install pandas
-Run the Python script: python analyze_orders.py
+Run the Python script: python Tanx_fi_Infrastructure_role.py
 
 ## Output
 
 The script generates a summary of the analysis, including:
 
-Monthly revenue breakdown
+Each online store monthly revenue breakdown
 Total revenue per product
 Total revenue per customer
 List of top 10 customers by revenue
