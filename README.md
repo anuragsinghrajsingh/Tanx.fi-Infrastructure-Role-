@@ -55,4 +55,4 @@ Fixing bugs
 
 ## Contact
 
-For any questions or feedback, please contact Anurag Singh at anuragsinghrajsingh@gmail.com.
+For any questions or feedback, please contact 'Anurag Singh' at anuragsinghrajsingh@gmail.com.
