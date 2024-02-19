@@ -15,8 +15,8 @@ Revenue per product,
 Revenue per customer,
 Identification of top 10 customers by revenue.
 
-There are 2 juypter notebook files one with little explanation(done with only inbuilt functions and methods) and the other with full explanation(done with both inbuilt functions and methods as well as manual method with little inbuilt function and methods).
-Because of limited time, one is done earlier and the other is done after sometime.
+There are 2 juypter notebook files one with little explanation(done with only inbuilt functions and methods) and the other with full explanation(done with both inbuilt functions and methods as well as manual method with little inbuilt functions and methods).
+Because of limited time, one is done earlier and the other is done later.
 
 ### Technologies Used
 
