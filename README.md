@@ -7,28 +7,42 @@ This is my assignment submission for tanX.fi.
 
 ### Overview
 
-This project analyzes customer order data from an online store to gain insights into revenue, product performance, and customer behavior. The analysis includes:
+This project analyzes customer order data from an online store to gain insights into revenue, product performance, and customer behavior. 
+The analysis includes:
 
-Monthly revenue calculation
-Revenue per product
-Revenue per customer
-Identification of top 10 customers by revenue
+Monthly revenue calculation,
+Revenue per product,
+Revenue per customer,
+Identification of top 10 customers by revenue.
 
 ### Technologies Used
 
-Python
+Python (for overall coding and result)
 Pandas (for data manipulation)
+seaborn and matplotlib (Data Visualization)
 
 ### Dataset
 
 orders.csv: Contains order details with columns:
-order_id
-customer_id
-order_date
-product_id
-product_name
-product_price
-quantity
+order_id	
+quantity	
+product_id	
+price
+seller_id	
+freight_value	
+customer_id	
+order_status	
+purchase_date	
+payment_type	
+product_category_name	
+product_weight_gram
+
+### Method Used
+1) Inbuilt method and function used to calculate the desired result.
+2) Manual method with the little inbuilt function and method used to calculate the desired result.
+
+All the lines of the code are written with proper explanation.(little knowledge is required to understand the concept written and explained)
+Both inbuilt and manual methods are separated properly.
 
 ### Usage
 
